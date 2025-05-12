@@ -1,0 +1,14 @@
+C:\Users\windows10\Desktop\NTP proje\hayvanayirma\hayvanayirma\bin\Debug\net8.0\hayvanayirma.exe
+C:\Users\windows10\Desktop\NTP proje\hayvanayirma\hayvanayirma\bin\Debug\net8.0\hayvanayirma.deps.json
+C:\Users\windows10\Desktop\NTP proje\hayvanayirma\hayvanayirma\bin\Debug\net8.0\hayvanayirma.runtimeconfig.json
+C:\Users\windows10\Desktop\NTP proje\hayvanayirma\hayvanayirma\bin\Debug\net8.0\hayvanayirma.dll
+C:\Users\windows10\Desktop\NTP proje\hayvanayirma\hayvanayirma\bin\Debug\net8.0\hayvanayirma.pdb
+C:\Users\windows10\Desktop\NTP proje\hayvanayirma\hayvanayirma\obj\Debug\net8.0\hayvanayirma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\windows10\Desktop\NTP proje\hayvanayirma\hayvanayirma\obj\Debug\net8.0\hayvanayirma.AssemblyInfoInputs.cache
+C:\Users\windows10\Desktop\NTP proje\hayvanayirma\hayvanayirma\obj\Debug\net8.0\hayvanayirma.AssemblyInfo.cs
+C:\Users\windows10\Desktop\NTP proje\hayvanayirma\hayvanayirma\obj\Debug\net8.0\hayvanayirma.csproj.CoreCompileInputs.cache
+C:\Users\windows10\Desktop\NTP proje\hayvanayirma\hayvanayirma\obj\Debug\net8.0\hayvanayirma.dll
+C:\Users\windows10\Desktop\NTP proje\hayvanayirma\hayvanayirma\obj\Debug\net8.0\refint\hayvanayirma.dll
+C:\Users\windows10\Desktop\NTP proje\hayvanayirma\hayvanayirma\obj\Debug\net8.0\hayvanayirma.pdb
+C:\Users\windows10\Desktop\NTP proje\hayvanayirma\hayvanayirma\obj\Debug\net8.0\hayvanayirma.genruntimeconfig.cache
+C:\Users\windows10\Desktop\NTP proje\hayvanayirma\hayvanayirma\obj\Debug\net8.0\ref\hayvanayirma.dll
