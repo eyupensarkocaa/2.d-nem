@@ -1,0 +1,16 @@
+C:\Users\windows10\Desktop\NTP proje\BirBoyutluDiziler\BirBoyutluDiziler\bin\Debug\net8.0-windows\BirBoyutluDiziler.exe
+C:\Users\windows10\Desktop\NTP proje\BirBoyutluDiziler\BirBoyutluDiziler\bin\Debug\net8.0-windows\BirBoyutluDiziler.deps.json
+C:\Users\windows10\Desktop\NTP proje\BirBoyutluDiziler\BirBoyutluDiziler\bin\Debug\net8.0-windows\BirBoyutluDiziler.runtimeconfig.json
+C:\Users\windows10\Desktop\NTP proje\BirBoyutluDiziler\BirBoyutluDiziler\bin\Debug\net8.0-windows\BirBoyutluDiziler.dll
+C:\Users\windows10\Desktop\NTP proje\BirBoyutluDiziler\BirBoyutluDiziler\bin\Debug\net8.0-windows\BirBoyutluDiziler.pdb
+C:\Users\windows10\Desktop\NTP proje\BirBoyutluDiziler\BirBoyutluDiziler\obj\Debug\net8.0-windows\BirBoyutluDiziler.Form1.resources
+C:\Users\windows10\Desktop\NTP proje\BirBoyutluDiziler\BirBoyutluDiziler\obj\Debug\net8.0-windows\BirBoyutluDiziler.csproj.GenerateResource.cache
+C:\Users\windows10\Desktop\NTP proje\BirBoyutluDiziler\BirBoyutluDiziler\obj\Debug\net8.0-windows\BirBoyutluDiziler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\windows10\Desktop\NTP proje\BirBoyutluDiziler\BirBoyutluDiziler\obj\Debug\net8.0-windows\BirBoyutluDiziler.AssemblyInfoInputs.cache
+C:\Users\windows10\Desktop\NTP proje\BirBoyutluDiziler\BirBoyutluDiziler\obj\Debug\net8.0-windows\BirBoyutluDiziler.AssemblyInfo.cs
+C:\Users\windows10\Desktop\NTP proje\BirBoyutluDiziler\BirBoyutluDiziler\obj\Debug\net8.0-windows\BirBoyutluDiziler.csproj.CoreCompileInputs.cache
+C:\Users\windows10\Desktop\NTP proje\BirBoyutluDiziler\BirBoyutluDiziler\obj\Debug\net8.0-windows\BirBoyutluDiziler.dll
+C:\Users\windows10\Desktop\NTP proje\BirBoyutluDiziler\BirBoyutluDiziler\obj\Debug\net8.0-windows\refint\BirBoyutluDiziler.dll
+C:\Users\windows10\Desktop\NTP proje\BirBoyutluDiziler\BirBoyutluDiziler\obj\Debug\net8.0-windows\BirBoyutluDiziler.pdb
+C:\Users\windows10\Desktop\NTP proje\BirBoyutluDiziler\BirBoyutluDiziler\obj\Debug\net8.0-windows\BirBoyutluDiziler.genruntimeconfig.cache
+C:\Users\windows10\Desktop\NTP proje\BirBoyutluDiziler\BirBoyutluDiziler\obj\Debug\net8.0-windows\ref\BirBoyutluDiziler.dll
