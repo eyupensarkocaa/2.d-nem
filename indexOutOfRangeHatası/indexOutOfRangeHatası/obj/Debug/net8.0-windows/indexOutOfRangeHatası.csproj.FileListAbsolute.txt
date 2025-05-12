@@ -1,0 +1,16 @@
+C:\Users\windows10\Desktop\NTP proje\indexOutOfRangeHatası\indexOutOfRangeHatası\bin\Debug\net8.0-windows\indexOutOfRangeHatası.exe
+C:\Users\windows10\Desktop\NTP proje\indexOutOfRangeHatası\indexOutOfRangeHatası\bin\Debug\net8.0-windows\indexOutOfRangeHatası.deps.json
+C:\Users\windows10\Desktop\NTP proje\indexOutOfRangeHatası\indexOutOfRangeHatası\bin\Debug\net8.0-windows\indexOutOfRangeHatası.runtimeconfig.json
+C:\Users\windows10\Desktop\NTP proje\indexOutOfRangeHatası\indexOutOfRangeHatası\bin\Debug\net8.0-windows\indexOutOfRangeHatası.dll
+C:\Users\windows10\Desktop\NTP proje\indexOutOfRangeHatası\indexOutOfRangeHatası\bin\Debug\net8.0-windows\indexOutOfRangeHatası.pdb
+C:\Users\windows10\Desktop\NTP proje\indexOutOfRangeHatası\indexOutOfRangeHatası\obj\Debug\net8.0-windows\indexOutOfRangeHatası.Form1.resources
+C:\Users\windows10\Desktop\NTP proje\indexOutOfRangeHatası\indexOutOfRangeHatası\obj\Debug\net8.0-windows\indexOutOfRangeHatası.csproj.GenerateResource.cache
+C:\Users\windows10\Desktop\NTP proje\indexOutOfRangeHatası\indexOutOfRangeHatası\obj\Debug\net8.0-windows\indexOutOfRangeHatası.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\windows10\Desktop\NTP proje\indexOutOfRangeHatası\indexOutOfRangeHatası\obj\Debug\net8.0-windows\indexOutOfRangeHatası.AssemblyInfoInputs.cache
+C:\Users\windows10\Desktop\NTP proje\indexOutOfRangeHatası\indexOutOfRangeHatası\obj\Debug\net8.0-windows\indexOutOfRangeHatası.AssemblyInfo.cs
+C:\Users\windows10\Desktop\NTP proje\indexOutOfRangeHatası\indexOutOfRangeHatası\obj\Debug\net8.0-windows\indexOutOfRangeHatası.csproj.CoreCompileInputs.cache
+C:\Users\windows10\Desktop\NTP proje\indexOutOfRangeHatası\indexOutOfRangeHatası\obj\Debug\net8.0-windows\indexOutOfRangeHatası.dll
+C:\Users\windows10\Desktop\NTP proje\indexOutOfRangeHatası\indexOutOfRangeHatası\obj\Debug\net8.0-windows\refint\indexOutOfRangeHatası.dll
+C:\Users\windows10\Desktop\NTP proje\indexOutOfRangeHatası\indexOutOfRangeHatası\obj\Debug\net8.0-windows\indexOutOfRangeHatası.pdb
+C:\Users\windows10\Desktop\NTP proje\indexOutOfRangeHatası\indexOutOfRangeHatası\obj\Debug\net8.0-windows\indexOutOfRangeHatası.genruntimeconfig.cache
+C:\Users\windows10\Desktop\NTP proje\indexOutOfRangeHatası\indexOutOfRangeHatası\obj\Debug\net8.0-windows\ref\indexOutOfRangeHatası.dll
