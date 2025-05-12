@@ -1,0 +1,16 @@
+C:\Users\windows10\Desktop\NTP proje\string_dizi_oluşturm\string_dizi_oluşturm\bin\Debug\net8.0-windows\string_dizi_oluşturm.exe
+C:\Users\windows10\Desktop\NTP proje\string_dizi_oluşturm\string_dizi_oluşturm\bin\Debug\net8.0-windows\string_dizi_oluşturm.deps.json
+C:\Users\windows10\Desktop\NTP proje\string_dizi_oluşturm\string_dizi_oluşturm\bin\Debug\net8.0-windows\string_dizi_oluşturm.runtimeconfig.json
+C:\Users\windows10\Desktop\NTP proje\string_dizi_oluşturm\string_dizi_oluşturm\bin\Debug\net8.0-windows\string_dizi_oluşturm.dll
+C:\Users\windows10\Desktop\NTP proje\string_dizi_oluşturm\string_dizi_oluşturm\bin\Debug\net8.0-windows\string_dizi_oluşturm.pdb
+C:\Users\windows10\Desktop\NTP proje\string_dizi_oluşturm\string_dizi_oluşturm\obj\Debug\net8.0-windows\string_dizi_oluşturm.Form1.resources
+C:\Users\windows10\Desktop\NTP proje\string_dizi_oluşturm\string_dizi_oluşturm\obj\Debug\net8.0-windows\string_dizi_oluşturm.csproj.GenerateResource.cache
+C:\Users\windows10\Desktop\NTP proje\string_dizi_oluşturm\string_dizi_oluşturm\obj\Debug\net8.0-windows\string_dizi_oluşturm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\windows10\Desktop\NTP proje\string_dizi_oluşturm\string_dizi_oluşturm\obj\Debug\net8.0-windows\string_dizi_oluşturm.AssemblyInfoInputs.cache
+C:\Users\windows10\Desktop\NTP proje\string_dizi_oluşturm\string_dizi_oluşturm\obj\Debug\net8.0-windows\string_dizi_oluşturm.AssemblyInfo.cs
+C:\Users\windows10\Desktop\NTP proje\string_dizi_oluşturm\string_dizi_oluşturm\obj\Debug\net8.0-windows\string_dizi_oluşturm.csproj.CoreCompileInputs.cache
+C:\Users\windows10\Desktop\NTP proje\string_dizi_oluşturm\string_dizi_oluşturm\obj\Debug\net8.0-windows\string_dizi_oluşturm.dll
+C:\Users\windows10\Desktop\NTP proje\string_dizi_oluşturm\string_dizi_oluşturm\obj\Debug\net8.0-windows\refint\string_dizi_oluşturm.dll
+C:\Users\windows10\Desktop\NTP proje\string_dizi_oluşturm\string_dizi_oluşturm\obj\Debug\net8.0-windows\string_dizi_oluşturm.pdb
+C:\Users\windows10\Desktop\NTP proje\string_dizi_oluşturm\string_dizi_oluşturm\obj\Debug\net8.0-windows\string_dizi_oluşturm.genruntimeconfig.cache
+C:\Users\windows10\Desktop\NTP proje\string_dizi_oluşturm\string_dizi_oluşturm\obj\Debug\net8.0-windows\ref\string_dizi_oluşturm.dll
