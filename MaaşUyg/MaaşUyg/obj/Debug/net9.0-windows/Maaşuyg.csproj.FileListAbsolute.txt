@@ -1,0 +1,16 @@
+C:\Users\windows10\Desktop\NTP proje\MaaşUyg\Maaşuyg\bin\Debug\net9.0-windows\Maaşuyg.exe
+C:\Users\windows10\Desktop\NTP proje\MaaşUyg\Maaşuyg\bin\Debug\net9.0-windows\Maaşuyg.deps.json
+C:\Users\windows10\Desktop\NTP proje\MaaşUyg\Maaşuyg\bin\Debug\net9.0-windows\Maaşuyg.runtimeconfig.json
+C:\Users\windows10\Desktop\NTP proje\MaaşUyg\Maaşuyg\bin\Debug\net9.0-windows\Maaşuyg.dll
+C:\Users\windows10\Desktop\NTP proje\MaaşUyg\Maaşuyg\bin\Debug\net9.0-windows\Maaşuyg.pdb
+C:\Users\windows10\Desktop\NTP proje\MaaşUyg\Maaşuyg\obj\Debug\net9.0-windows\Maaşuyg.Form1.resources
+C:\Users\windows10\Desktop\NTP proje\MaaşUyg\Maaşuyg\obj\Debug\net9.0-windows\Maaşuyg.csproj.GenerateResource.cache
+C:\Users\windows10\Desktop\NTP proje\MaaşUyg\Maaşuyg\obj\Debug\net9.0-windows\Maaşuyg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\windows10\Desktop\NTP proje\MaaşUyg\Maaşuyg\obj\Debug\net9.0-windows\Maaşuyg.AssemblyInfoInputs.cache
+C:\Users\windows10\Desktop\NTP proje\MaaşUyg\Maaşuyg\obj\Debug\net9.0-windows\Maaşuyg.AssemblyInfo.cs
+C:\Users\windows10\Desktop\NTP proje\MaaşUyg\Maaşuyg\obj\Debug\net9.0-windows\Maaşuyg.csproj.CoreCompileInputs.cache
+C:\Users\windows10\Desktop\NTP proje\MaaşUyg\Maaşuyg\obj\Debug\net9.0-windows\Maaşuyg.dll
+C:\Users\windows10\Desktop\NTP proje\MaaşUyg\Maaşuyg\obj\Debug\net9.0-windows\refint\Maaşuyg.dll
+C:\Users\windows10\Desktop\NTP proje\MaaşUyg\Maaşuyg\obj\Debug\net9.0-windows\Maaşuyg.pdb
+C:\Users\windows10\Desktop\NTP proje\MaaşUyg\Maaşuyg\obj\Debug\net9.0-windows\Maaşuyg.genruntimeconfig.cache
+C:\Users\windows10\Desktop\NTP proje\MaaşUyg\Maaşuyg\obj\Debug\net9.0-windows\ref\Maaşuyg.dll
